@@ -1,1 +1,1 @@
-# -50DaysOfJavaScript-Challenge
+# 50DaysOfJavaScript-Challenge
