@@ -13,3 +13,5 @@
 
 #### [**_Day_06_Write a function to truncate a string to a certain number of words_**](./Day_06_Write%20a%20function%20to%20truncate%20a%20string%20to%20a%20certain%20number%20of%20words/ "Write a function to truncate a string to a certain number of words")    <br/>
 
+#### [**_Day_07_Create a regular expression to validate if the given input is valid Indian mobile number or not_**](./Day_07_Create%20a%20regular%20expression%20to%20validate%20if%20the%20given%20input%20is%20valid%20Indian%20mobile%20number%20or%20not/ "Create a regular expression to validate if the given input is valid Indian mobile number or not")    <br/>
+
