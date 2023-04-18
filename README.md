@@ -16,3 +16,5 @@
 #### [**_Day_07_Create a regular expression to validate if the given input is valid Indian mobile number or not_**](./Day_07_Create%20a%20regular%20expression%20to%20validate%20if%20the%20given%20input%20is%20valid%20Indian%20mobile%20number%20or%20not/ "Create a regular expression to validate if the given input is valid Indian mobile number or not")    <br/>
 
 #### [**_Day_08_Write a function which accepts two valid dates and returns the difference between them as number of days_**](./Day_08_Write%20a%20function%20which%20accepts%20two%20valid%20dates%20and%20returns%20the%20difference%20between%20them%20as%20number%20of%20days/ "Write a function which accepts two valid dates and returns the difference between them as number of days")    <br/>
+
+#### [**_Day_09_Write a function which accepts two valid dates and returns the difference between them as number of days copy_**](./Day_09_Write%20a%20function%20which%20accepts%20two%20valid%20dates%20and%20returns%20the%20difference%20between%20them%20as%20number%20of%20days%20copy/ "Write a function which accepts two valid dates and returns the difference between them as number of days copy")    <br/>
