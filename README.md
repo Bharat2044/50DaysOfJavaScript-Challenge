@@ -18,3 +18,5 @@
 #### [**_Day_08_Write a function which accepts two valid dates and returns the difference between them as number of days_**](./Day_08_Write%20a%20function%20which%20accepts%20two%20valid%20dates%20and%20returns%20the%20difference%20between%20them%20as%20number%20of%20days/ "Write a function which accepts two valid dates and returns the difference between them as number of days")    <br/>
 
 #### [**_Day_09_Write a function to check if an object is empty or not in javaScript?_**](./Day_09_Write%20a%20function%20to%20check%20if%20an%20object%20is%20empty%20or%20not%20in%20javaScript%3F/ "Write a function to check if an object is empty or not in javaScript?")    <br/>
+
+#### [**_Day_10_Write a function to remove array element based on object property?_**](./Day_10_Write%20a%20function%20to%20remove%20array%20element%20based%20on%20object%20property%3F/ "Write a function to remove array element based on object property?")    <br/>
