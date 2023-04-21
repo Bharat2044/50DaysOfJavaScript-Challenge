@@ -23,3 +23,6 @@
 
 
 #### [**_Day_11_Return the N-th value of the Fibonacci sequence_**](./Day_11_Return%20the%20N-th%20value%20of%20the%20Fibonacci%20sequence/ "Return the N-th value of the Fibonacci sequence")    <br/>
+
+
+#### [**_Day_12_Given a number from 0 to 999,999,999,999, spell out that number in English._**](./Day_12_Given%20a%20number%20from%200%20to%20999%2C999%2C999%2C999%2C%20spell%20out%20that%20number%20in%20English./ "Given a number from 0 to 999,999,999,999, spell out that number in English.")    <br/>
