@@ -26,3 +26,6 @@
 
 
 #### [**_Day_12_Given a number from 0 to 999,999,999,999, spell out that number in English._**](./Day_12_Given%20a%20number%20from%200%20to%20999%2C999%2C999%2C999%2C%20spell%20out%20that%20number%20in%20English./ "Given a number from 0 to 999,999,999,999, spell out that number in English.")    <br/>
+
+
+#### [**_Day_13_Convert given seconds to space age on all planets of our solar system_**](./Day_13_Convert%20given%20seconds%20to%20space%20age%20on%20all%20planets%20of%20our%20solar%20system/ "Convert given seconds to space age on all planets of our solar system.")    <br/>
