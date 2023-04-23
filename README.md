@@ -1,6 +1,5 @@
 # 50DaysOfJavaScript-Challenge
 
-
 #### [**_Day_01_Function which returns a random number in the given range_**](./Day_01_Function%20which%20returns%20a%20random%20number%20in%20the%20given%20range/ "Function which returns a random number in the given range")    <br/>
 
 #### [**_Day_02_Write a program to reverse a string_**](./Day_02_Write%20a%20program%20to%20reverse%20a%20string/ "Write a program to reverse a string")    <br/> 
@@ -21,11 +20,10 @@
 
 #### [**_Day_10_Write a function to remove array element based on object property?_**](./Day_10_Write%20a%20function%20to%20remove%20array%20element%20based%20on%20object%20property%3F/ "Write a function to remove array element based on object property?")    <br/>
 
-
 #### [**_Day_11_Return the N-th value of the Fibonacci sequence_**](./Day_11_Return%20the%20N-th%20value%20of%20the%20Fibonacci%20sequence/ "Return the N-th value of the Fibonacci sequence")    <br/>
-
 
 #### [**_Day_12_Given a number from 0 to 999,999,999,999, spell out that number in English._**](./Day_12_Given%20a%20number%20from%200%20to%20999%2C999%2C999%2C999%2C%20spell%20out%20that%20number%20in%20English./ "Given a number from 0 to 999,999,999,999, spell out that number in English.")    <br/>
 
-
 #### [**_Day_13_Convert given seconds to space age on all planets of our solar system_**](./Day_13_Convert%20given%20seconds%20to%20space%20age%20on%20all%20planets%20of%20our%20solar%20system/ "Convert given seconds to space age on all planets of our solar system.")    <br/>
+
+#### [**_Day_14_Convert given array of digits of a base to another asked base_**](./Day_14_Convert%20given%20array%20of%20digits%20of%20a%20base%20to%20another%20asked%20base/ "Convert given array of digits of a base to another asked base")    <br/>
