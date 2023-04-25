@@ -29,3 +29,5 @@
 #### [**_Day_14_Convert given array of digits of a base to another asked base_**](./Day_14_Convert%20given%20array%20of%20digits%20of%20a%20base%20to%20another%20asked%20base/ "Convert given array of digits of a base to another asked base")    <br/>
 
 #### [**_Day_15_Determine if a sentence is a pangram_**](./Day_15_Determine%20if%20a%20sentence%20is%20a%20pangram/ "Determine if a sentence is a pangram")    <br/>
+
+#### [**_Day_16_Ask the Bob_**](./Day_16_Ask%20the%20Bob/ "Ask the Bob")    <br/>
