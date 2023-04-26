@@ -31,3 +31,5 @@
 #### [**_Day_15_Determine if a sentence is a pangram_**](./Day_15_Determine%20if%20a%20sentence%20is%20a%20pangram/ "Determine if a sentence is a pangram")    <br/>
 
 #### [**_Day_16_Ask the Bob_**](./Day_16_Ask%20the%20Bob/ "Ask the Bob")    <br/>
+
+#### [**_Day_17_Longest Consecutive Sequence_**](./Day_17_Longest%20Consecutive%20Sequence/ "Longest Consecutive Sequence")    <br/>
