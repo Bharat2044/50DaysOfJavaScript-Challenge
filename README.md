@@ -33,3 +33,5 @@
 #### [**_Day_16_Ask the Bob_**](./Day_16_Ask%20the%20Bob/ "Ask the Bob")    <br/>
 
 #### [**_Day_17_Longest Consecutive Sequence_**](./Day_17_Longest%20Consecutive%20Sequence/ "Longest Consecutive Sequence")    <br/>
+
+#### [**_Day_18_Calculate Grains on a given square on a chessboard_**](./Day_18_Calculate%20Grains%20on%20a%20given%20square%20on%20a%20chessboard/ "Calculate Grains on a given square on a chessboard")    <br/>
