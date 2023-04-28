@@ -35,3 +35,5 @@
 #### [**_Day_17_Longest Consecutive Sequence_**](./Day_17_Longest%20Consecutive%20Sequence/ "Longest Consecutive Sequence")    <br/>
 
 #### [**_Day_18_Calculate Grains on a given square on a chessboard_**](./Day_18_Calculate%20Grains%20on%20a%20given%20square%20on%20a%20chessboard/ "Calculate Grains on a given square on a chessboard")    <br/>
+
+#### [**_Day_19_Resistor Color map_**](./Day_19_Resistor%20Color%20map/ "Resistor Color map")    <br/>
