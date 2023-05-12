@@ -53,3 +53,7 @@
 #### [**_Day_26_Find the odd int_**](./Day_26_Find%20the%20odd%20int/ "Find the odd int")    <br/>
 
 #### [**_Day_27_Vowel Count_**](./Day_27_Vowel%20Count/ "Vowel Count")    <br/>
+
+#### [**_Day_28_WeIrD StRiNg Case_**](./Day_28_WeIrD%20StRiNg%20Case/ "WeIrD StRiNg Case")    <br/>
+
+#### [**_Day_29_Mumbling_**](./Day_29_Mumbling/ "Mumbling")    <br/>
