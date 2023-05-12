@@ -63,3 +63,16 @@
 #### [**_Day_31_Write a Program to Find the Factorial of a Number_**](./Day_31_Write%20a%20Program%20to%20Find%20the%20Factorial%20of%20a%20Number/ "Write a Program to Find the Factorial of a Number")    <br/>
 
 #### [**_Day_32_Write a program to find the greatest common divisor (gcd) of two positive numbers._**](./Day_32_Write%20a%20program%20to%20find%20the%20greatest%20common%20divisor%20(gcd)%20of%20two%20positive%20numbers./ "Write a program to find the greatest common divisor (gcd) of two positive numbers.")    <br/>
+
+<table border = "1">
+<tr>
+<th>1. </td>
+<th>2. </td>
+<th>3. </td>
+</tr>
+<tr>
+<th>HI</td>
+<th>HI</td>
+<th>HI </td>
+</tr>
+</table>
