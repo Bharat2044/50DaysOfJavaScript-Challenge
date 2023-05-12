@@ -47,3 +47,7 @@
 #### [**_Day_23_Equal Sides Of An Array_**](./Day_23_Equal%20Sides%20Of%20An%20Array/ "Equal Sides Of An Array")    <br/>
 
 #### [**_Day_24_Write Number in Expanded Form_**](./Day_24_Write%20Number%20in%20Expanded%20Form/ "Write Number in Expanded Form")    <br/>
+
+#### [**_Day_25_Stop gninnipS My sdroW!_**](./Day_25_Stop%20gninnipS%20My%20sdroW!/ "Stop gninnipS My sdroW!")    <br/>
+
+#### [**_Day_26_Find the odd int_**](./Day_26_Find%20the%20odd%20int/ "Find the odd int")    <br/>
