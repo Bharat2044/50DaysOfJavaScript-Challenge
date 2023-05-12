@@ -43,3 +43,7 @@
 #### [**_Day_21_Union of Two Arrays_**](./Day_21_Union%20of%20Two%20Arrays/ "Union of Two Arrays")    <br/>
 
 #### [**_Day_22_Unique In Order_**](./Day_22_Unique%20In%20Order/ "Unique In Order")    <br/>
+
+#### [**_Day_23_Equal Sides Of An Array_**](./Day_23_Equal%20Sides%20Of%20An%20Array/ "Equal Sides Of An Array")    <br/>
+
+#### [**_Day_24_Write Number in Expanded Form_**](./Day_24_Write%20Number%20in%20Expanded%20Form/ "Write Number in Expanded Form")    <br/>
