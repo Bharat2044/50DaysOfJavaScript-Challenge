@@ -57,3 +57,5 @@
 #### [**_Day_28_WeIrD StRiNg Case_**](./Day_28_WeIrD%20StRiNg%20Case/ "WeIrD StRiNg Case")    <br/>
 
 #### [**_Day_29_Mumbling_**](./Day_29_Mumbling/ "Mumbling")    <br/>
+
+#### [**_Day_30_Mexican Wave_**](./Day_30_Mexican%20Wave/ "Mexican Wave")    <br/>
