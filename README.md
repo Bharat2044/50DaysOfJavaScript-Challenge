@@ -41,3 +41,5 @@
 #### [**_Day_20_Add two numbers_**](./Day_20_Add%20two%20numbers/ "Add two numbers")    <br/>
 
 #### [**_Day_21_Union of Two Arrays_**](./Day_21_Union%20of%20Two%20Arrays/ "Union of Two Arrays")    <br/>
+
+#### [**_Day_22_Unique In Order_**](./Day_22_Unique%20In%20Order/ "Unique In Order")    <br/>
