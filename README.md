@@ -65,3 +65,5 @@
 #### [**_Day_32_Write a program to find the greatest common divisor (gcd) of two positive numbers._**](./Day_32_Write%20a%20program%20to%20find%20the%20greatest%20common%20divisor%20(gcd)%20of%20two%20positive%20numbers./ "Write a program to find the greatest common divisor (gcd) of two positive numbers.")    <br/>
 
 #### [**_Day_33_Write a program to print unique values from an array_**](./Day_33_Write%20a%20program%20to%20print%20unique%20values%20from%20an%20array/ "Write a program to print unique values from an array")    <br/>
+
+#### [**_Day_34_Write a program to find the most frequent item of an array_**](./Day_34_Write%20a%20program%20to%20find%20the%20most%20frequent%20item%20of%20an%20array/ "Write a program to find the most frequent item of an array")    <br/>
