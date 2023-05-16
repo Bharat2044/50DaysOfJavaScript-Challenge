@@ -69,3 +69,5 @@
 #### [**_Day_34_Write a program to find the most frequent item of an array_**](./Day_34_Write%20a%20program%20to%20find%20the%20most%20frequent%20item%20of%20an%20array/ "Write a program to find the most frequent item of an array")    <br/>
 
 #### [**_Day_35_Write a JavaScript function to get nth largest element from an unsorted array._**](./Day_35_Write%20a%20JavaScript%20function%20to%20get%20nth%20largest%20element%20from%20an%20unsorted%20array./ "Write a JavaScript function to get nth largest element from an unsorted array.")    <br/>
+
+#### [**_Day_36_Rna Transcription_**](./Day_36_Rna%20Transcription/ "Rna Transcription")    <br/>
