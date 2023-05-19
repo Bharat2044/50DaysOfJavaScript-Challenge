@@ -75,3 +75,5 @@
 #### [**_Day_37_Tell if its a leap year_**](./Day_37_Tell%20if%20its%20a%20leap%20year/ "Tell if its a leap year")    <br/>
 
 #### [**_Day_38_Luhn algorithm_**](./Day_38_Luhn%20algorithm/ "Luhn algorithm")    <br/>
+
+#### [**_Day_39_Mixed Juices_**](./Day_39_Mixed%20Juices/ "Mixed Juices")    <br/>
