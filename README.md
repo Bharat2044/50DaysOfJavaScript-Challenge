@@ -77,3 +77,5 @@
 #### [**_Day_38_Luhn algorithm_**](./Day_38_Luhn%20algorithm/ "Luhn algorithm")    <br/>
 
 #### [**_Day_39_Mixed Juices_**](./Day_39_Mixed%20Juices/ "Mixed Juices")    <br/>
+
+#### [**_Day_40_Vehicle Purchase_**](./Day_40_Vehicle%20Purchase/ "Vehicle Purchase")    <br/>
