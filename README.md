@@ -79,3 +79,5 @@
 #### [**_Day_39_Mixed Juices_**](./Day_39_Mixed%20Juices/ "Mixed Juices")    <br/>
 
 #### [**_Day_40_Vehicle Purchase_**](./Day_40_Vehicle%20Purchase/ "Vehicle Purchase")    <br/>
+
+#### [**_Day_41_Categorize New Member_**](./Day_41_Categorize%20New%20Member/ "Categorize New Member")    <br/>
