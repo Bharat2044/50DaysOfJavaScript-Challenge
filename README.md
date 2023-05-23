@@ -83,3 +83,5 @@
 #### [**_Day_41_Categorize New Member_**](./Day_41_Categorize%20New%20Member/ "Categorize New Member")    <br/>
 
 #### [**_Day_42_Sum of two lowest positive integers_**](./Day_42_Sum%20of%20two%20lowest%20positive%20integers/ "Sum of two lowest positive integers")    <br/>
+
+#### [**_Day_43_Highest Scoring Word_**](./Day_43_Highest%20Scoring%20Word/ "Highest Scoring Word")    <br/>
