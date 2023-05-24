@@ -85,3 +85,5 @@
 #### [**_Day_42_Sum of two lowest positive integers_**](./Day_42_Sum%20of%20two%20lowest%20positive%20integers/ "Sum of two lowest positive integers")    <br/>
 
 #### [**_Day_43_Highest Scoring Word_**](./Day_43_Highest%20Scoring%20Word/ "Highest Scoring Word")    <br/>
+
+#### [**_Day_44_Count the divisors of a number_**](./Day_44_Count%20the%20divisors%20of%20a%20number/ "Count the divisors of a number")    <br/>
