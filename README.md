@@ -87,3 +87,5 @@
 #### [**_Day_43_Highest Scoring Word_**](./Day_43_Highest%20Scoring%20Word/ "Highest Scoring Word")    <br/>
 
 #### [**_Day_44_Count the divisors of a number_**](./Day_44_Count%20the%20divisors%20of%20a%20number/ "Count the divisors of a number")    <br/>
+
+#### [**_Day_45_Find The Parity Outlier_**](/Day_45_Find%20The%20Parity%20Outlier/ "Find The Parity Outlier")    <br/>
