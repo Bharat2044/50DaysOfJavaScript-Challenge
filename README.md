@@ -93,3 +93,5 @@
 #### [**_Day_46_A Needle in the Haystack_**](./Day_46_A%20Needle%20in%20the%20Haystack/ "A Needle in the Haystack")    <br/>
 
 #### [**_Day_47_Isograms_**](./Day_47_Isograms/ "AIsograms")    <br/>
+
+#### [**_Day_48_Human readable duration format_**](./Day_48_Human%20readable%20duration%20format/ "Human readable duration format")    <br/>
