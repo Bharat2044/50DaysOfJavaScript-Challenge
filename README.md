@@ -95,3 +95,5 @@
 #### [**_Day_47_Isograms_**](./Day_47_Isograms/ "AIsograms")    <br/>
 
 #### [**_Day_48_Human readable duration format_**](./Day_48_Human%20readable%20duration%20format/ "Human readable duration format")    <br/>
+
+#### [**_Day_40_Is this a triangle?_**](./Day_49_Is%20this%20a%20triangle%3F/ "Is this a triangle?")    <br/>
