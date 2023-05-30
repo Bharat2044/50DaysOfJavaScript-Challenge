@@ -98,4 +98,4 @@
 
 #### [**_Day_49_Is this a triangle?_**](./Day_49_Is%20this%20a%20triangle%3F/ "Is this a triangle?")    <br/>
 
-#### [**_Day_50_Is this a triangle?_**](./Day_50_Get%20the%20Middle%20Character/ "Get the Middle Character")    <br/>
+#### [**_Day_50_Get the Middle Character_**](./Day_50_Get%20the%20Middle%20Character/ "Get the Middle Character")    <br/>
